@@ -1,5 +1,5 @@
 # ZshELDA
-![alt tag](http://i.imgur.com/5zlT1Wj.png)
+![alt tag](http://i.imgur.com/9J7mLab.png)
 
 This is simply a Zelda inspired ZSH Terminal Theme with functioning GIT Status which is nerdily shown to mimic the retro nes HUD:
 Where "-LIFE-" is either ONE Heart or FULL Hearts, depending on your git repo being dirty or not.
@@ -23,9 +23,5 @@ LVL-master [B][A] -LIFE- ♥ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡
 
 ### Installation
 ```bash
-// Set name of the theme to load.
-// Look in ~/.oh-my-zsh/themes/
-// Optionally, if you set this to "random", it'll load a random theme each
-// time that oh-my-zsh is loaded.
-$ export ZSH_THEME="zelda"
+† export ZSH_THEME="zelda"
 ```

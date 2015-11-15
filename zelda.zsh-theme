@@ -1,8 +1,8 @@
 local ret_status="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ %s)"
 
 PROMPT='$fg[cyan]%d$fg[blue]$(git_prompt_info)
-$fg[yellow] ▲  $fg[blue]%m$fg[white]†$fg[teal]%w ⌛%t
-$fg[yellow]▲ ▲ $fg[green]%n @ $fg_bold[green]%c
+$fg[yellow] ▲  $fg[blue]%m  $fg[white]† $fg[teal]%w ⌛ %t
+$fg[yellow]▲ ▲ $fg[green]%n @  $fg_bold[green]%c
 $fg[blue]†$reset_color'
 
 ZSH_THEME_GIT_PROMPT_PREFIX="
