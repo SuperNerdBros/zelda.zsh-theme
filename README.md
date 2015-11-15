@@ -22,6 +22,8 @@ LVL-master [B][A] -LIFE- ♥ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡
 ```
 
 ### Installation
+
 ```bash
+† mv zelda.zsh-theme ~/.oh-my-zsh/themes/
 † export ZSH_THEME="zelda"
 ```
