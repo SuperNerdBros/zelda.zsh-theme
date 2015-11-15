@@ -1,4 +1,5 @@
 # ZshELDA
+![alt tag](http://i.imgur.com/5zlT1Wj.png)
 This is simply a Zelda inspired ZSH Terminal Theme with functioning GIT Status which is nerdily shown to mimic the retro nes HUD:
 Where "-LIFE-" is either ONE Heart or FULL Hearts, depending on your git repo being dirty or not.
 
